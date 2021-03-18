@@ -12,6 +12,8 @@ Este webservice fornecerá toda ainteligência para o cálculo do IMC.
 
 2 - download do intellij
 
+2 - download do postman
+
 
 ### 🔧 Instalação
 
