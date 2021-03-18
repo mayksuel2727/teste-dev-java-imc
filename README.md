@@ -21,9 +21,9 @@ Este webservice fornecerá toda ainteligência para o cálculo do IMC.
 
 2 - com o projeto ja aberto abrir src/main/resources/application.properties e altere datasource.usename e datasource.password para o usuario e password do seu banco de dados
 
-3 - Rode a aplicação ma classe UsuarioApplication
+3 - Rode a aplicação na classe UsuarioApplication
 
-4 - use o postman para fazer para fazer o post e get no banco de dados
+4 - use o postman para fazer para fazer o os teste no webservice
 
 ## 🛠️ Construído com
 
